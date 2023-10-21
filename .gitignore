@@ -7,6 +7,12 @@
 *.obj
 *.elf
 
+cmake_install.cmake
+CMakeFiles/
+Makefile
+wordle
+CMakeCache.txt
+
 cmake-build-debug/
 .idea/
 
